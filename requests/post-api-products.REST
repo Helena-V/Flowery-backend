@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/products
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1haWphIiwiaWQiOiI1ZGY0ZjU4OTQ5MDM4NzMxM2M3OTY4YTMiLCJpYXQiOjE1NzcyNzM4MDd9.Bla52aQzjl-QuEnIgB-tvcyVYgtEEYKkd67ImDYfjw8
+
+{
+    "name": "ruusu",
+    "description": "punainen ruusu",
+    "price": "8.0"
+}
